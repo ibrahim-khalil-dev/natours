@@ -1,0 +1,8 @@
+// bufferd code  is what which add code to output. in this case the tour
+   // h1= tour
+   // h2= user.toUpperCase()
+   // p This is a test
+   // non buffered code is what? Which do not add anything to the output
+   // -x = 9;
+   // p=x*2
+      // interpolation #{tour}
